@@ -42,7 +42,9 @@ const About = () => {
             </div>
             </div>
             <div className='flex items-center'>
+              <a href="https://api.whatsapp.com/send?phone=919848759689" target="_blank" rel="noopener noreferrer"> 
                 <button className='bg-yellow-500 px-8 py-3 rounded-lg mr-4 hover:bg-yellow-400'>Hire Me</button>
+                </a>
                 <a className='flex items-center text-yellow-500 font-semibold' href={Goutham_CV} download='Goutham_CV.pdf'>Download CV <BsDownload className='ml-2 text-lg'/></a>
             </div>
       </div>
