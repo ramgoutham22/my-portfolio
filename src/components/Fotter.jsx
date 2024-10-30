@@ -10,26 +10,22 @@ const Fotter = () => {
         </div>
         <div className='flex justify-between md:w-3/4'>
             <div className='space-y-4'>
-                <h3 className='font-mediumtext-gray-700'>Explore</h3>
+                <h3 className='font-mediumtext-gray-700'>My Work</h3>
                 <ul className='text-gray-500 space-y-2'>
-                    <li><a href='#'>Support</a></li>
-                    <li><a href='#'>About me</a></li>
-                    <li><a href='#'>Blog</a></li>
+                   <li><a href='https://github.com/ramgoutham22' target="_blank" rel="noopener noreferrer">GitHub</a></li>
                 </ul>
             </div>
             <div className='space-y-4'>
-            <h3 className='font-mediumtext-gray-700'>Legal</h3>
+            <h3 className='font-mediumtext-gray-700'>Connect & Collaborate</h3>
                 <ul className='text-gray-500 space-y-2'>
-                    <li><a href='#'>Terms of Use</a></li>
-                    <li><a href='#'>Privacy Policy</a></li>
+                    <li><a href='https://www.linkedin.com/in/ram-goutham-1a754223b' target="_blank" rel="noopener noreferrer">Linked In</a></li>
                 </ul>
             </div>
             <div>
             <h3 className='font-mediumtext-gray-700'>Social</h3>
                 <ul className='text-gray-500 space-y-2'>
-                    <li><a href='#'>Twitter</a></li>
-                    <li><a href='#'>Linked In</a></li>
-                    <li><a href='#'>Instagram</a></li>
+                    <li><a href='https://x.com/ram__goutham' target="_blank" rel="noopener noreferrer">Twitter</a></li>
+                    <li><a href='https://www.instagram.com/ram__goutham/' target="_blank" rel="noopener noreferrer">Instagram</a></li>
                 </ul>
             </div>
         </div>
