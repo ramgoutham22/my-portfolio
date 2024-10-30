@@ -12,7 +12,7 @@ const Hero = () => {
         <p className='text-sm md:text-xl lg:text-lg tracking-tighter'>Experienced Product Engineer working at Tata Consultancy Services having industrial hands on work experience with Java, JavaScript and also has a college level experience in Python. Able to debug and fix the issue. Uses Eclipse as an IDE. Currently working on the project "Transform Plus Reverse Engieering".
         </p>
         <div className='flex items-center justify-content md:justify-start gap-4 mt-5'> 
-          <a href="https://api.whatsapp.com/send?phone=919848759689"> 
+          <a href="https://api.whatsapp.com/send?phone=919848759689" target="_blank" rel="noopener noreferrer"> 
             <button className='bg-yellow-500 px-10 py-1 rounded-large mr-4 hover:bg-yellow-400 duration-200'>Hire Me</button>
             </a>
             <a className='flex items-center text-yellow-500 font-semibold' href={Goutham_CV} download="Goutham_CV.pdf"> 
