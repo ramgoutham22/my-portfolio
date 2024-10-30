@@ -57,7 +57,7 @@ const Education = () => {
             <p className='text-4xl text-gray-600 italic mb-6 px-14'>{education[current].name}</p>
             <h3 className='font-semibold text-lg'>{education[current].position}</h3>
             <p className='text-gray-400'>{education[current].fieldOfStudy}</p>
-            <h3 className='font-semibold text-lg'>{education[current].cgpa}</h3>
+            <h3 className='font-semibold text-lg'>CGPA:{education[current].cgpa}</h3>
             <div className='absolute inset-x-0 top-1/2 transform -translate-y-1/2 flex justify-between px-4'>
                 <button className='bg-red-500 text-white p-2 rounded-full hover:bg-yellow-600 transition duration-300' onClick={preEducation}><FaArrowLeft/></button>
                 <button className='bg-red-500 text-white p-2 rounded-full hover:bg-yellow-600 transition duration-300' onClick={preEducation}><FaArrowRight/></button>
