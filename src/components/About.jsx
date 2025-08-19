@@ -19,7 +19,7 @@ const About = () => {
         {/* <h3 className='text-yellow-500 font-semibold text-lg uppercase mb-4'>A Bit</h3> */}
         <h2 className='text-4xl md:text-6xl font-bold text-gray-800 mb-6'>About Me</h2>
         <p className='text-gray-600 mb-6'>
-        Results-driven Product Engineer with 1 year of experience at TCS, specializing in product development and engineering solutions. Skilled in collaborating with cross-functional teams to enhance product performance and ensure quality standards. Proficient in utilizing engineering principles and tools to deliver innovative solutions that meet customer requirements.
+        Java Developer with 2+ years of experience in backend development, microservices, and API integration; proficient in delivering robust, client-focused enterprise solutions with strong collaboration and problem-solving skills.
         </p>
 
         <div className='flex flex-wrap mb-6'>
